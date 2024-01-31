@@ -1,0 +1,24 @@
+{
+	"@type":"Hierarchy",
+	"Name":"MK_Test2",
+	"Elements":
+	[
+		{
+			"Name":"Zeros",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Semaphore",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Left",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"String",
+			"Type":"String"
+		}
+	],
+	"Subsets@Code.links":[]
+}

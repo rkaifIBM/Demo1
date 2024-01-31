@@ -1,0 +1,20 @@
+{
+	"@type":"Hierarchy",
+	"Name":"MK_Test1",
+	"Elements":
+	[
+		{
+			"Name":"Test 1 Test 1 Test 1 Test 1 Test 1 Test 1 Test 1 Test 1 Test 1 Test 1 Test 1 Test 1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Test 2 Test 2 Test 2 Test 2 Test 2 Test 2 Test 2 Test 2 Test 2 Test 2 Test 2 Test 2",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Test 3 Test 3 Test 3 Test 3 Test 3 Test 3 Test 3 Test 3 Test 3 Test 3 Test 3 Test 3",
+			"Type":"Numeric"
+		}
+	],
+	"Subsets@Code.links":[]
+}
