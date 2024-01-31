@@ -1,0 +1,12 @@
+{
+	"@type":"Dimension",
+	"Name":"MK_Test1",
+	"Hierarchies@Code.links":
+	[
+		"MK_Test1.hierarchies/MK_Test1.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('MK_Test1')/Hierarchies('MK_Test1')"
+	}
+}

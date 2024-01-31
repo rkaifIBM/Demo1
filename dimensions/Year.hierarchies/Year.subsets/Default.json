@@ -1,0 +1,6 @@
+{
+	"@type":"Subset",
+	"Name":"Default",
+	"Alias":"Caption_Default",
+	"Expression":"{[Year].[Year].[Y1],[Year].[Year].[Y2],[Year].[Year].[Y3]}"
+}
